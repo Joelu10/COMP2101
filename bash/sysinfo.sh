@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #!/bin/bash
 
 # Get hostname and FQDN
@@ -23,4 +24,5 @@ echo "Operating System name and version: $OS_NAME $OS_VERSION"
 echo "IP Address: $IP_ADDRESS"
 echo "Root Filesystem Free Space: $DISK_SPACE"
 echo "==============="
-
+=======
+ 
