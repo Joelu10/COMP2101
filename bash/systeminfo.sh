@@ -1,5 +1,8 @@
 #!/bin/bash
 
+
+#SYSTEM REPORT SCRIPT GENEREATED BY JOEL SAJU 
+
 # Source the function library file
 source reportfunctions.sh
 
@@ -38,6 +41,9 @@ generate_system_report() {
     cpureport
     ramreport
     videoreport
+    diskreport
+    networkreport
+
 }
 
 # Default behavior (full system report) when no options are provided
